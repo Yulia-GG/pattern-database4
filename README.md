@@ -53,7 +53,11 @@
 Например, в таблице *пользователи* можно разделить данные по дате рождения или женскому(мужскому) полу.
 
 
-![image](https://github.com/Yulia-GG/pattern-database2/blob/main/задание2.png)
+![image](https://github.com/Yulia-GG/pattern-database4/blob/main/1.png)
 
-![image](https://github.com/Yulia-GG/pattern-database2/blob/main/задание4.png)
+![image](https://github.com/Yulia-GG/pattern-database4/blob/main/2.png)
+
+![image](https://github.com/Yulia-GG/pattern-database4/blob/main/3.png)
+
+![image](https://github.com/Yulia-GG/pattern-database4/blob/main/4.png)
 
